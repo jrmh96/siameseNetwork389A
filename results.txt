@@ -1,0 +1,21 @@
+Beginning Training
+Epoch 1/10
+145/145 [==============================] - 28s 192ms/step - loss: 0.3612 - acc: 0.9092 - categorical_accuracy: 0.1556 - val_loss: 0.2949 - val_acc: 0.9156 - val_categorical_accuracy: 0.2258
+Epoch 2/10
+145/145 [==============================] - 26s 178ms/step - loss: 0.3171 - acc: 0.9143 - categorical_accuracy: 0.2150 - val_loss: 0.2769 - val_acc: 0.9173 - val_categorical_accuracy: 0.2971
+Epoch 3/10
+ 54/145 [==========>...................] - ETA: 15s - loss: 0.2906 - acc: 0.9204 - categorical_accuracy: 0.2721145/145 [==============================] - 26s 179ms/step - loss: 0.2917 - acc: 0.9181 - categorical_accuracy: 0.2813 - val_loss: 0.2442 - val_acc: 0.9187 - val_categorical_accuracy: 0.4890
+Epoch 4/10
+145/145 [==============================] - 26s 179ms/step - loss: 0.2750 - acc: 0.9191 - categorical_accuracy: 0.3190 - val_loss: 0.2551 - val_acc: 0.9187 - val_categorical_accuracy: 0.4363
+Epoch 5/10
+ 86/145 [================>.............] - ETA: 9s - loss: 0.2686 - acc: 0.9200 - categorical_accuracy: 0.3584 145/145 [==============================] - 26s 179ms/step - loss: 0.2643 - acc: 0.9204 - categorical_accuracy: 0.3604 - val_loss: 0.2481 - val_acc: 0.9190 - val_categorical_accuracy: 0.4822
+Epoch 6/10
+145/145 [==============================] - 26s 179ms/step - loss: 0.2587 - acc: 0.9200 - categorical_accuracy: 0.3802 - val_loss: 0.2275 - val_acc: 0.9225 - val_categorical_accuracy: 0.5246
+Epoch 7/10
+ 93/145 [==================>...........] - ETA: 8s - loss: 0.2427 - acc: 0.9231 - categorical_accuracy: 0.4296145/145 [==============================] - 26s 180ms/step - loss: 0.2451 - acc: 0.9219 - categorical_accuracy: 0.4282 - val_loss: 0.2253 - val_acc: 0.9216 - val_categorical_accuracy: 0.5212
+Epoch 8/10
+145/145 [==============================] - 26s 178ms/step - loss: 0.2452 - acc: 0.9222 - categorical_accuracy: 0.4327 - val_loss: 0.2264 - val_acc: 0.9229 - val_categorical_accuracy: 0.5144
+Epoch 9/10
+ 95/145 [==================>...........] - ETA: 8s - loss: 0.2435 - acc: 0.9220 - categorical_accuracy: 0.4476145/145 [==============================] - 26s 177ms/step - loss: 0.2422 - acc: 0.9220 - categorical_accuracy: 0.4468 - val_loss: 0.2289 - val_acc: 0.9220 - val_categorical_accuracy: 0.5331
+Epoch 10/10
+145/145 [==============================] - 26s 180ms/step - loss: 0.2386 - acc: 0.9224 - categorical_accuracy: 0.4633 - val_loss: 0.2280 - val_acc: 0.9202 - val_categorical_accuracy: 0.5195
