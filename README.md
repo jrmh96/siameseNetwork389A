@@ -1,5 +1,6 @@
 Multi-Label Classification on kaggle dataset: https://www.kaggle.com/nih-chest-xrays/sample
-This dataset is a sample of the complete x-ray dataset, with the entire dataset containing 
+
+This dataset is a ***sample*** of the complete x-ray dataset, with the entire dataset containing 30000+ pictures. 
 
 Categorical Accuracy of 53% on validation set
 
