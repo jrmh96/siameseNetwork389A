@@ -2,8 +2,11 @@ Multi-Label Classification on kaggle dataset (5606 pictures): https://www.kaggle
 
 Sample label format: 
 
-Image Index	          Finding Labels	                                   
-00000013_005.png	Emphysema|Infiltration|Pleural_Thickening|Pneumothorax	
+Image Index	          
+00000013_005.png
+
+Finding Labels	                                   
+Emphysema|Infiltration|Pleural_Thickening|Pneumothorax	
 
 This dataset is a ***sample*** of the complete x-ray dataset, with the entire dataset containing 30000+ pictures. 
 
